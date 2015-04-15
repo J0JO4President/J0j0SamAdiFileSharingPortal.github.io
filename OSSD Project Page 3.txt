@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="text-align:center"><h1 style="color:blue">Welcome To The IOS Portion</h1>
+<body style="background-color:darkgrey">
+<a href="https://itunes.apple.com/us/app/skype-for-iphone/id304878510?mt=8.html"><img style="border=5 solid yellow" src="skype.gif"height="140" width="280" alt="image">
+<a href="https://itunes.apple.com/sa/app/whatsapp-messenger/id310633997?mt=8.html"><img style="border=25 solid yellow" src="fb-post.jpg"height="140" width="280" alt="image">
+<a href="https://itunes.apple.com/sa/app/facebook/id284882215?mt=8.html"><img style="border=45 solid yellow" src="facebook_416x416.jpg"height="140" width="280" alt="image">
+<a href="https://itunes.apple.com/en/app/facebook-messenger/id454638411?mt=8.html"><img style="border=65 solid yellow" src="Download-Facebook-Messenger-APK-15.0.0.20.16-For-Your-Android-2.jpg"height="140" width="280" alt="image">
+<a href="https://itunes.apple.com/sa/app/speedtest.net-mobile-speed/id300704847?mt=8.html"><img style="border=85 solid yellow" src="mzl.mmmvjfjy.png"height="140" width="280" alt="image">
+<a href="https://itunes.apple.com/en/app/qr-code-reader-and-scanner/id388175979?mt=8.html"><img style="border=105 solid yellow" src="mzm.tmlqyzwb.png"height="140" width="280" alt="image">
+<a href="https://itunes.apple.com/sa/app/viber/id382617920?mt=8.html"><img style="border=125 solid yellow" src="324328-viber-for-android.jpg"height="140" width="280" alt="image">
+<a href="https://itunes.apple.com/sa/app/line/id443904275?mt=8.html"><img style="border=145 solid yellow" src="chat-line-1.jpg"height="140" width="280" alt="image">
+<a href="https://itunes.apple.com/us/app/ebay/id282614216?mt=8.html"><img style="border=165 solid yellow" src="mzl.vdhoetdo.png"height="140" width="280" alt="image">
+<a href="https://itunes.apple.com/sa/app/google-earth/id293622097?mt=8.html"><img style="border=185 solid yellow" src="google_earth.jpg"height="140" width="280" alt="image">
+</body>
+</html>
